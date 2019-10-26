@@ -7,8 +7,6 @@ import 'firebase/storage'
 // thieu import error firebase.storage not is function
 const config = {
     apiKey: "",
-    authDomain: "m-city-5bca1.firebaseapp.com",
-    databaseURL: "https://m-city-5bca1.firebaseio.com",
     projectId: "",
     storageBucket: "",
     messagingSenderId: "",
