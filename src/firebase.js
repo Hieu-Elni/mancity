@@ -6,14 +6,14 @@ import 'firebase/storage'
  
 // thieu import error firebase.storage not is function
 const config = {
-    apiKey: "AIzaSyBTYIBNGDuKZCNA4_brZ5IsnUQGuLn1-a4",
+    apiKey: "",
     authDomain: "m-city-5bca1.firebaseapp.com",
     databaseURL: "https://m-city-5bca1.firebaseio.com",
-    projectId: "m-city-5bca1",
-    storageBucket: "m-city-5bca1.appspot.com",
-    messagingSenderId: "206184367940",
-    appId: "1:206184367940:web:2083ae29af1c41a94eb911",
-    measurementId: "G-PEMWYSK3ZZ"
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
   firebase.initializeApp(config);
